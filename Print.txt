@@ -1,0 +1,184 @@
+﻿        public void PrintNumbers()
+        {
+            for (int i = 0; i < 3; i++)
+            {
+                for (int j = 0; j < 3; j++)
+                {
+                    Console.Write(s[i, j] + " ");
+                }
+            }
+
+            Console.WriteLine("");
+
+            for (int i = 0; i < 3; i++)
+            {
+                for (int j = 3; j < 6; j++)
+                {
+                    Console.Write(s[i, j] + " ");
+                }
+            }
+
+            Console.WriteLine("");
+
+            for (int i = 0; i < 3; i++)
+            {
+                for (int j = 6; j < 9; j++)
+                {
+                    Console.Write(s[i, j] + " ");
+                }
+            }
+
+            Console.WriteLine("");
+
+            for (int i = 3; i < 6; i++)
+            {
+                for (int j = 0; j < 3; j++)
+                {
+                    Console.Write(s[i, j] + " ");
+                }
+            }
+
+            Console.WriteLine("");
+
+            for (int i = 3; i < 6; i++)
+            {
+                for (int j = 3; j < 6; j++)
+                {
+                    Console.Write(s[i, j] + " ");
+                }
+            }
+
+            Console.WriteLine("");
+
+            for (int i = 3; i < 6; i++)
+            {
+                for (int j = 6; j < 9; j++)
+                {
+                    Console.Write(s[i, j] + " ");
+                }
+            }
+
+            Console.WriteLine("");
+
+            for (int i = 6; i < 9; i++)
+            {
+                for (int j = 0; j < 3; j++)
+                {
+                    Console.Write(s[i, j] + " ");
+                }
+            }
+
+            Console.WriteLine("");
+
+            for (int i = 6; i < 9; i++)
+            {
+                for (int j = 3; j < 6; j++)
+                {
+                    Console.Write(s[i, j] + " ");
+                }
+            }
+
+            Console.WriteLine("");
+
+            for (int i = 6; i < 9; i++)
+            {
+                for (int j = 6; j < 9; j++)
+                {
+                    Console.Write(s[i, j] + " ");
+                }
+            }
+        }
+
+        public void PrintSheet()
+        {
+            Console.WriteLine("");
+
+            for (int i = 0; i < 3; i++)
+            {
+                for (int j = 0; j < 3; j++)
+                {
+                    Console.Write(sh[i, j] + " ");
+                }
+            }
+
+            Console.WriteLine("");
+
+            for (int i = 0; i < 3; i++)
+            {
+                for (int j = 3; j < 6; j++)
+                {
+                    Console.Write(sh[i, j] + " ");
+                }
+            }
+
+            Console.WriteLine("");
+
+            for (int i = 0; i < 3; i++)
+            {
+                for (int j = 6; j < 9; j++)
+                {
+                    Console.Write(sh[i, j] + " ");
+                }
+            }
+
+            Console.WriteLine("");
+
+            for (int i = 3; i < 6; i++)
+            {
+                for (int j = 0; j < 3; j++)
+                {
+                    Console.Write(sh[i, j] + " ");
+                }
+            }
+
+            Console.WriteLine("");
+
+            for (int i = 3; i < 6; i++)
+            {
+                for (int j = 3; j < 6; j++)
+                {
+                    Console.Write(sh[i, j] + " ");
+                }
+            }
+
+            Console.WriteLine("");
+
+            for (int i = 3; i < 6; i++)
+            {
+                for (int j = 6; j < 9; j++)
+                {
+                    Console.Write(sh[i, j] + " ");
+                }
+            }
+
+            Console.WriteLine("");
+
+            for (int i = 6; i < 9; i++)
+            {
+                for (int j = 0; j < 3; j++)
+                {
+                    Console.Write(sh[i, j] + " ");
+                }
+            }
+
+            Console.WriteLine("");
+
+            for (int i = 6; i < 9; i++)
+            {
+                for (int j = 3; j < 6; j++)
+                {
+                    Console.Write(sh[i, j] + " ");
+                }
+            }
+
+            Console.WriteLine("");
+
+            for (int i = 6; i < 9; i++)
+            {
+                for (int j = 6; j < 9; j++)
+                {
+                    Console.Write(sh[i, j] + " ");
+                }
+            }
+        }
+        
